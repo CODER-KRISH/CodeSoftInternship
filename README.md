@@ -1,1 +1,1 @@
-# All Internship Tasks are here
+# All Tasks are here
